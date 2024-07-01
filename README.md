@@ -6,8 +6,8 @@
 
 Web development learning path involves mastering core technologies like HTML, CSS, and JavaScript, then progressing to front-end frameworks/libraries like React or Vue.js, as well as back-end languages/frameworks, databases, web servers, version control, testing and deployment. Continuous learning and hands-on practice are key.
 
-|   Index | Name                                                  | Level   | Project Link                                                                                            |
-|---------|-------------------------------------------------------|---------|---------------------------------------------------------------------------------------------------------|
+|   Index | Name                                                  | Level   | Project Link                                                                                           |
+|---------|-------------------------------------------------------|---------|--------------------------------------------------------------------------------------------------------|
 |     001 | Build an VSCode Extension With ChatGPT                | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-build-an-vscode-extension-with-chatgpt)            |
 |     002 | Build a Tic-Tac-Toe Web App                           | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-build-a-tic-tac-toe-web-app)                       |
 |     003 | Creating a Whack-a-Mole Web Game                      | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-creating-a-whack-a-mole-web-game)                  |
