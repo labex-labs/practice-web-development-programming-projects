@@ -8,7 +8,7 @@
 <img width="128px" src="https://file.labex.io/path/NHa0nG5axMBE.png">
 </div>
 
-O desenvolvimento web é uma área dinâmica e crucial na era digital. Esta trilha de habilidades oferece uma maneira sistemática de aprender tecnologias front-end e back-end. Feita sob medida para iniciantes, ela fornece um roteiro claro para dominar HTML, CSS, JavaScript e frameworks populares. Através de cursos práticos, sem vídeos, e exercícios de codificação, você construirá sites e aplicações web reais em um ambiente interativo.
+Aprenda Desenvolvimento Web com este caminho de aprendizagem abrangente, projetado para iniciantes. Estes cursos estruturados de Desenvolvimento Web fornecem um roteiro claro para dominar tecnologias de front-end e back-end, desde fundamentos como HTML, CSS e JavaScript até frameworks populares. Através de módulos práticos sem vídeo e exercícios de codificação, você construirá sites e aplicações web reais em um ambiente interativo.
 
 ## Exercícios
 
