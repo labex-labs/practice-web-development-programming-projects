@@ -8,7 +8,7 @@
 <img width="128px" src="https://file.labex.io/path/NHa0nG5axMBE.png">
 </div>
 
-Webentwicklung ist ein dynamisches und entscheidendes Feld im digitalen Zeitalter. Dieser Skill-Tree bietet einen systematischen Ansatz, um Front - End- und Back - End-Technologien zu erlernen. Speziell für Anfänger entwickelt, bietet er eine klare Roadmap, um HTML, CSS, JavaScript und beliebte Frameworks zu meistern. Durch praktische, nicht-videobasierte Kurse und praktische Programmierübungen wirst du in einer interaktiven Umgebung echte Websites und Webanwendungen erstellen.
+Lernen Sie Webentwicklung mit diesem umfassenden Lernpfad, der für Anfänger konzipiert wurde. Diese strukturierten Webentwicklungskurse bieten eine klare Roadmap, um sowohl Front-End- als auch Back-End-Technologien zu beherrschen, von Grundlagen wie HTML, CSS und JavaScript bis hin zu beliebten Frameworks. Durch praktische, nicht-video-basierte Module und praktische Programmierübungen erstellen Sie in einer interaktiven Umgebung reale Websites und Webanwendungen.
 
 ## Übungen
 
