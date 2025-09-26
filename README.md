@@ -8,7 +8,7 @@
 <img width="128px" src="https://file.labex.io/path/NHa0nG5axMBE.png">
 </div>
 
-Web development is a dynamic and crucial field in the digital era. This skill tree offers a systematic way to learn front - end and back - end technologies. Tailored for beginners, it provides a clear roadmap to master HTML, CSS, JavaScript, and popular frameworks. Through hands - on, non - video courses and practical coding exercises, you'll build real websites and web applications in an interactive environment.
+Learn Web Development with this comprehensive learning path designed for beginners. These structured Web Development Courses provide a clear roadmap to master both front-end and back-end technologies, from fundamentals like HTML, CSS, and JavaScript to popular frameworks. Through hands-on, non-video modules and practical coding exercises, you will build real-world websites and web applications in an interactive environment.
 
 ## Exercises
 
