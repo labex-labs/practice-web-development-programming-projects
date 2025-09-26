@@ -8,7 +8,7 @@
 <img width="128px" src="https://file.labex.io/path/NHa0nG5axMBE.png">
 </div>
 
-El desarrollo web es un campo dinámico y fundamental en la era digital. Este árbol de habilidades ofrece una forma sistemática de aprender tecnologías de front - end y back - end. Diseñado para principiantes, proporciona una hoja de ruta clara para dominar HTML, CSS, JavaScript y frameworks populares. A través de cursos prácticos sin video y ejercicios de codificación, construirás sitios web y aplicaciones web reales en un entorno interactivo.
+Aprende Desarrollo Web con esta completa ruta de aprendizaje diseñada para principiantes. Estos cursos estructurados de Desarrollo Web proporcionan una hoja de ruta clara para dominar tanto las tecnologías front-end como back-end, desde fundamentos como HTML, CSS y JavaScript hasta frameworks populares. A través de módulos prácticos sin video y ejercicios de codificación, construirás sitios web y aplicaciones web del mundo real en un entorno interactivo.
 
 ## Ejercicios
 
